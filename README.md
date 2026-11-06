@@ -20,7 +20,7 @@ A 5-second road traffic video containing approximately 150 frames was manually a
 
 ## Dataset Information
 - Video Duration: Approximately 5 seconds
-- Total Frames: 150
+- Total Frames: 52
 - Annotation Tool: CVAT
 - Project Type: Video Annotation and Object Tracking
 
